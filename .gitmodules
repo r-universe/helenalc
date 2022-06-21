@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CATALYST"]
+	path = CATALYST
+	url = https://github.com/helenalc/catalyst
+	shallow = true
+	registered = true
