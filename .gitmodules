@@ -8,3 +8,8 @@
 	url = https://github.com/helenalc/catalyst
 	shallow = true
 	registered = true
+[submodule "muscat"]
+	path = muscat
+	url = https://github.com/helenalc/muscat
+	shallow = true
+	registered = true
